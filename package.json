@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-code-documentation-generator",
+  "version": "1.0.0",
+  "description": "One Dionys (Code Documentation Generator) - A utility for generating automated documentation of application source code, easing code development and maintenance.",
+  "main": "src/code-documentation-generator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-code-documentation-generator.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "code-documentation-geenrator"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-code-documentation-generator/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-code-documentation-generator#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
