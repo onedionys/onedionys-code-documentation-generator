@@ -1,6 +1,6 @@
 {
   "name": "onedionys-code-documentation-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Code Documentation Generator) - A utility for generating automated documentation of application source code, easing code development and maintenance.",
   "main": "src/code-documentation-generator.js",
   "directories": {
